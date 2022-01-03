@@ -1,2 +1,4 @@
 # Electra-AGE_FE
-Combining ELECTRA and Adaptive Graph Encoding for Frame Identification
+Combining ELECTRA and Adaptive Graph Encoding for Frame Identification.
+
+...work in progress! Stay connected!
