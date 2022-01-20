@@ -1,5 +1,4 @@
 # Electra-AGE_FE
-Combining ELECTRA and Adaptive Graph Encoding for Frame Identification.
+Code and splits for the submitted paper.
 
-...work in progress! I will upload the whole repository in few days.
-Stay connected!
+The code is in this repository, while the splits must be downloaded from this [link](http://corpora.ficlit.unibo.it/UploadDIR/experiments.tar.gz) and extracted int the repository root folder.
