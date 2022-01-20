@@ -17,3 +17,11 @@ For reproducing the experiments:
 ```
     python3 ./showResults.py ../experiments/xp_1.5_08/frameid/results/summary
 ```
+
+Results obtained on a NVIDIA Titan XP 12GB by using:
+- CUDA 10.0
+- python 3.6.7
+- pytorch 1.4.1
+- transformers 3.1.0
+- networkx 2.2
+
