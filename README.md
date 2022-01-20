@@ -3,7 +3,7 @@ Code and splits for the submitted paper.
 
 The code is in this repository, while the splits must be downloaded from this [link](http://corpora.ficlit.unibo.it/UploadDIR/experiments.tar.gz) and extracted in the repository root folder.
 
-For reproducing my experiments:
+For reproducing the experiments:
 1) Create ELECTRA embeddings for a given split (here FN1.5\_08):
 ```
     cd scripts
