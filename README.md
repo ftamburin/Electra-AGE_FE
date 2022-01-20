@@ -25,3 +25,4 @@ Results obtained on a NVIDIA Titan XP 12GB and:
 - transformers 3.1.0
 - networkx 2.2
 
+Parts of this package are based on [pyfn](https://github.com/akb89/pyfn).
