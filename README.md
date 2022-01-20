@@ -9,11 +9,11 @@ For reproducing my experiments:
     cd scripts
     bash ./CreateVectors.sh 1.5_08
 ```
-2) Perform the entire set of 10 experiments:
+2) Perform the entire set of 10 experiments with different random initialisation:
 ```
     bash ./FrameID.sh -m train -x 1.5_08 -v 1.5 -e electra 
 ```
-3) Look at the results:
+3) Look at the final detailed results on the test set:
 ```
     python3 ./showResults.py ../experiments/xp_1.5_08/frameid/results/summary
 ```
