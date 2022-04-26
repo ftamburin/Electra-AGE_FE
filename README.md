@@ -20,6 +20,7 @@ For reproducing the experiments:
 
 Results obtained on a NVIDIA Titan XP 12GB and:
 - CUDA 10.0
+- cuDNN 7.4.2
 - python 3.6.7
 - pytorch 1.4.1
 - transformers 3.1.0
