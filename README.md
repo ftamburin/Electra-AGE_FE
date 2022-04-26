@@ -39,3 +39,5 @@ If you find this code useful in your research, please cite:
   publisher = {European Language Resources Association},
 }
 ```
+
+In case of problems contact me at <fabio.tamburini@unibo.it>.
