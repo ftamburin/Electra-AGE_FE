@@ -1,7 +1,7 @@
 # Electra-AGE_FE
 Code and splits for the paper "Combining ELECTRA and Adaptive Graph Encoding for Frame Identification" at [LREC2022](https://lrec2022.lrec-conf.org/en/).
 
-The code is in this repository, while the splits must be downloaded from this [link](http://corpora.ficlit.unibo.it/UploadDIR/GitHub/experiments.tar.gz) and extracted in the repository root folder.
+The code is in this repository, while the splits must be downloaded from this [link](http://corpora.ficlit.unibo.it/UploadDIR/GitHub/FI_experiments.tar.gz) and extracted in the repository root folder.
 
 For reproducing the experiments:
 1) Create ELECTRA embeddings for a given split (here FN1.5\_08):
